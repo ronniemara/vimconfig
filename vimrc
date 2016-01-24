@@ -23,3 +23,8 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 
 " Add plugins to &runtimepath
 call plug#end()
+
+
+set nu
+
+
